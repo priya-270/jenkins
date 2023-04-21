@@ -6,3 +6,4 @@ ansible is easy to learn
 kubernets is comprehensive orchestration tool
 argo cd is kubernets continous deployment tool
 apple
+orange
