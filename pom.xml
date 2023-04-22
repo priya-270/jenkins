@@ -1,0 +1,11 @@
+<groupId>com.example</groupId>
+<artifactId>my-project</artifactId>
+<version>1.0.0</version>
+
+<dependencies>
+    <dependency>
+        <groupId>com.example</groupId>
+        <artifactId>my-library</artifactId>
+        <version>1.0.0</version>
+    </dependency>
+</dependencies>
