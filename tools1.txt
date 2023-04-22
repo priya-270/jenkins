@@ -5,3 +5,4 @@ docke is popular container run time
 ansible is easy to learn
 kubernets is comprehensive orchestration tool
 argo cd is kubernets continous deployment tool
+orange
