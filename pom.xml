@@ -2,7 +2,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>in.javahome</groupId>
-  <artifactId>hr-api</artifactId>
+  <artifactId>jenkins</artifactId>
   <packaging>war</packaging>
   <version>1.1</version>
   <name>hr-api Maven Webapp</name>
@@ -27,7 +27,7 @@
     </dependency>
   </dependencies>
   <build>
-	  <finalName>hr-api</finalName>
+	  <finalName>jenkins</finalName>
 	  <plugins>
 		<plugin>
     		<groupId>org.apache.maven.plugins</groupId>
